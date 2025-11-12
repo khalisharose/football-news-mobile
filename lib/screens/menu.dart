@@ -6,8 +6,8 @@ import 'package:football_news/widgets/news_card.dart';
 class MyHomePage extends StatelessWidget {
     MyHomePage({super.key});
 
-    final String nama = "Khansa Dinda Arya Putri";
-    final String npm = "2406496063";
+    final String nama = "Khalisha Roselani";
+    final String npm = "2406496183";
     final String kelas = "F";
 
     final List<ItemHomepage> items = [
